@@ -1,5 +1,14 @@
 # 📊 Sales Dashboard Analysis
 
+### This dashboard showed ₹43K revenue… but missed ₹15K loss
+
+## 📊 Key Metrics
+- Total Revenue: ₹43.41K
+- Revenue Loss: ₹15K+
+- Failed Transactions: 14.8%
+- Top Performing State: Maharashtra
+- Highest Orders: Bihar
+
 ## 🔍 Problem Statement
 Analyze a 7-day book sales dataset to identify revenue gaps, customer behavior, and business risks.
 
@@ -17,6 +26,12 @@ Analyze a 7-day book sales dataset to identify revenue gaps, customer behavior, 
 - Regional differences in buying behavior (Maharashtra vs Bihar)
 - Sudden demand spikes without system readiness
 
+## 💼 Business Impact
+- Identified hidden revenue leakage from failed payments
+- Highlighted risks of discount-driven sales strategy
+- Improved understanding of regional customer behavior
+- Provided actionable insights for revenue optimization
+
 ## ⚠️ Business Problems Identified
 - High payment failure rate (14.8%)
 - Over-reliance on discounts
@@ -29,6 +44,12 @@ Analyze a 7-day book sales dataset to identify revenue gaps, customer behavior, 
 - Implement retry & alert system for failed payments
 - Use geo-targeted campaigns
 - Prepare systems for demand spikes
+
+## 📚 Learnings
+- Importance of analyzing beyond dashboards
+- Difference between revenue and volume metrics
+- Real-world business impact of data analysis
+- How small system issues can cause major revenue loss
 
 ## 📁 Project Files
 - `sales-data.csv` → Dataset
