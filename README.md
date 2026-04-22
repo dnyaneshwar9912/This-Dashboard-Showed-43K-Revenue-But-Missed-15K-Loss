@@ -8,7 +8,7 @@ Analyze a 7-day book sales dataset to identify revenue gaps, customer behavior, 
 - Power BI (Dashboard & Visualization)
 
 ## 📊 Dashboard Preview
-![Dashboard](dashboard.png)
+<img width="1448" height="813" alt="image" src="https://github.com/user-attachments/assets/12b530a9-3b07-4a1e-ac8b-a51e91e3a4b8" />
 
 ## 📈 Key Insights
 - Revenue ≠ Volume: Power BI book generated highest revenue despite lower sales
@@ -36,5 +36,3 @@ Analyze a 7-day book sales dataset to identify revenue gaps, customer behavior, 
 
 ## 🚀 Outcome
 Converted raw sales data into actionable insights that highlight revenue leakage, operational risks, and growth opportunities.
-
-<img width="1448" height="813" alt="image" src="https://github.com/user-attachments/assets/12b530a9-3b07-4a1e-ac8b-a51e91e3a4b8" />
